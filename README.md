@@ -5,6 +5,10 @@
 # 文件说明
 :smiley_cat:single_block：单块仓拣货路径规划算法。
 
+--test是一组测试数据
+
+--DAP.py是主程序，运行后得到规划结果如图
+
 :smiley_cat:multi_block：多块仓拣货路径规划算法。
 
 # 联系我
