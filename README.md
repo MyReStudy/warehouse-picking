@@ -3,14 +3,14 @@
 :wave:欢迎使用仓库拣货路径规划问题求解算法项目。在本项目中，点击 “single_block” 与 “multi_block”，即可运行可执行文件，直观感受算法的求解过程。由于论文尚未正式发表，出于学术规范与保密性考虑，部分核心代码暂未公开，现阶段您仍可进行运行操作，探索算法在实际应用中的表现。
 
 # 文件说明
-:smiley_cat:single_block：单块仓拣货路径规划算法。
+:smiley_cat:**single_block**：单块仓拣货路径规划算法。
 
 --test：一组测试数据
 
 --DAP.py：程序入口，运行后得到规划结果如图
 ![image](https://github.com/LiuYuqier/warehouse-picking/blob/main/res/single_block_result.png)
 
-:smiley_cat:multi_block：多块仓拣货路径规划算法。
+:smiley_cat:**multi_block**：多块仓拣货路径规划算法。
 
 --warehouse_data_4_5：训练好的模型，可以进行调用求解
 
