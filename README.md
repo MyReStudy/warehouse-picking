@@ -17,6 +17,8 @@
 --run.py：程序入口，运行后调用模型完成随机生成的订单路径规划求解，某次运行结果如图（不完整截图）：
 ![image](https://github.com/LiuYuqier/warehouse-picking/blob/main/res/multi_block_result.png)
 
+该部分代码参考了https://github.com/wouterkool/attention-learn-to-route，相关论文：Attention, Learn to Solve Routing Problems!
+
 # 联系我
 :blush:若您对本项目感兴趣，欢迎通过Github 与我取得联系，也可直接发送邮件至 liuyuqi322@163.com，期待与您交流探讨，共同推进仓库拣货路径规划算法研究。
 
