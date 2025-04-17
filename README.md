@@ -8,6 +8,7 @@
 --test是一组测试数据
 
 --DAP.py是主程序，运行后得到规划结果如图
+![image]([https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png](https://github.com/LiuYuqier/warehouse-picking/blob/main/res/single_block_result.png))
 
 :smiley_cat:multi_block：多块仓拣货路径规划算法。
 
