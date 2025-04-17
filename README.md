@@ -5,12 +5,17 @@
 # 文件说明
 :smiley_cat:single_block：单块仓拣货路径规划算法。
 
---test是一组测试数据
+--test：一组测试数据
 
---DAP.py是主程序，运行后得到规划结果如图
-![image]([https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png](https://github.com/LiuYuqier/warehouse-picking/blob/main/res/single_block_result.png))
+--DAP.py：程序入口，运行后得到规划结果如图
+![image](https://github.com/LiuYuqier/warehouse-picking/blob/main/res/single_block_result.png)
 
 :smiley_cat:multi_block：多块仓拣货路径规划算法。
+
+--warehouse_data_4_5：训练好的模型，可以进行调用求解
+
+--run.py：程序入口，运行后调用模型完成随机生成的订单路径规划求解，某次运行结果如图（不完整截图）：
+![image](https://github.com/LiuYuqier/warehouse-picking/blob/main/res/multi_block_result.png)
 
 # 联系我
 :blush:若您对本项目感兴趣，欢迎通过Github 与我取得联系，也可直接发送邮件至 liuyuqi322@163.com，期待与您交流探讨，共同推进仓库拣货路径规划算法研究。
